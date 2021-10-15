@@ -1,0 +1,13 @@
+Currently using GPU: 0
+Creating dataset: SOPClass
+create labels..
+Creating model: mobilenet
+file name: catsiam_MobileNetV3_SOPClass_80_1_pairmargin_pair_0.0001_512
+>> Epoch 1/1
+acc: 67.173/67.173 loss: 0.989
+catsiam_MobileNetV3_SOPClass_80_1_pairmargin_pair_0.0001_512  saved.
+catsiam_emb_MobileNetV3_SOPClass_80_1_pairmargin_pair_0.0001_512  saved.
+== Validation ==
+
+Accuracy (%): 67.17267608642578	 Error rate (%): 32.82732391357422
+Finished. Total elapsed time (h:m:s): 0:04:45

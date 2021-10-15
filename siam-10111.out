@@ -1,0 +1,6 @@
+Currently using GPU: 0
+Creating dataset: SOPClass
+create labels..
+Creating model: mobilenet
+file name: siam_MobileNetV3_SOPClass_80_50_pairmargin_pair_0.0001_512
+>> Epoch 1/50

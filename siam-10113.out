@@ -1,0 +1,540 @@
+Currently using GPU: 0
+Creating dataset: SOPClass
+create labels..
+Creating model: mobilenet
+file name: siam_MobileNetV3_SOPClass_80_50_pairmargin_pair_0.0001_512
+>> Epoch 1/50
+loss: 0.347
+>> Epoch 2/50
+loss: 0.316
+>> Epoch 3/50
+loss: 0.296
+>> Epoch 4/50
+loss: 0.296
+>> Epoch 5/50
+loss: 0.296
+>> Epoch 6/50
+loss: 0.296
+>> Epoch 7/50
+loss: 0.296
+>> Epoch 8/50
+loss: 0.296
+>> Epoch 9/50
+loss: 0.296
+>> Epoch 10/50
+loss: 0.296
+>> Epoch 11/50
+loss: 0.277
+>> Epoch 12/50
+loss: 0.277
+>> Epoch 13/50
+loss: 0.277
+>> Epoch 14/50
+loss: 0.277
+>> Epoch 15/50
+loss: 0.277
+>> Epoch 16/50
+loss: 0.277
+>> Epoch 17/50
+loss: 0.277
+>> Epoch 18/50
+loss: 0.277
+>> Epoch 19/50
+loss: 0.277
+>> Epoch 20/50
+loss: 0.277
+>> Epoch 21/50
+loss: 0.277
+>> Epoch 22/50
+loss: 0.277
+>> Epoch 23/50
+loss: 0.277
+>> Epoch 24/50
+loss: 0.277
+>> Epoch 25/50
+loss: 0.277
+>> Epoch 26/50
+loss: 0.277
+>> Epoch 27/50
+loss: 0.277
+>> Epoch 28/50
+loss: 0.277
+>> Epoch 29/50
+loss: 0.277
+>> Epoch 30/50
+loss: 0.277
+>> Epoch 31/50
+loss: 0.277
+>> Epoch 32/50
+loss: 0.277
+>> Epoch 33/50
+loss: 0.277
+>> Epoch 34/50
+loss: 0.277
+>> Epoch 35/50
+loss: 0.277
+>> Epoch 36/50
+loss: 0.277
+>> Epoch 37/50
+loss: 0.277
+>> Epoch 38/50
+loss: 0.277
+>> Epoch 39/50
+loss: 0.277
+>> Epoch 40/50
+loss: 0.277
+>> Epoch 41/50
+loss: 0.277
+>> Epoch 42/50
+loss: 0.277
+>> Epoch 43/50
+loss: 0.277
+>> Epoch 44/50
+loss: 0.277
+>> Epoch 45/50
+loss: 0.277
+>> Epoch 46/50
+loss: 0.277
+>> Epoch 47/50
+loss: 0.277
+>> Epoch 48/50
+loss: 0.277
+>> Epoch 49/50
+loss: 0.277
+>> Epoch 50/50
+loss: 0.277
+siam_MobileNetV3_SOPClass_80_50_pairmargin_pair_0.0001_512  saved.
+siam_emb_MobileNetV3_SOPClass_80_50_pairmargin_pair_0.0001_512  saved.
+Finished. Total elapsed time (h:m:s): 3:47:20
+Currently using GPU: 0
+Creating dataset: SOPClass
+create labels..
+Creating model: mobilenet
+file name: siam_MobileNetV3_SOPClass_80_50_triplet_all_triplet_0.0001_512
+>> Epoch 1/50
+loss: 0.010
+>> Epoch 2/50
+loss: 0.010
+>> Epoch 3/50
+loss: 0.010
+>> Epoch 4/50
+loss: 0.010
+>> Epoch 5/50
+loss: 0.010
+>> Epoch 6/50
+loss: 0.010
+>> Epoch 7/50
+loss: 0.010
+>> Epoch 8/50
+loss: 0.010
+>> Epoch 9/50
+loss: 0.010
+>> Epoch 10/50
+loss: 0.010
+>> Epoch 11/50
+loss: 0.010
+>> Epoch 12/50
+loss: 0.010
+>> Epoch 13/50
+loss: 0.010
+>> Epoch 14/50
+loss: 0.010
+>> Epoch 15/50
+loss: 0.010
+>> Epoch 16/50
+loss: 0.010
+>> Epoch 17/50
+loss: 0.010
+>> Epoch 18/50
+loss: 0.010
+>> Epoch 19/50
+loss: 0.010
+>> Epoch 20/50
+loss: 0.010
+>> Epoch 21/50
+loss: 0.010
+>> Epoch 22/50
+loss: 0.010
+>> Epoch 23/50
+loss: 0.010
+>> Epoch 24/50
+loss: 0.010
+>> Epoch 25/50
+loss: 0.010
+>> Epoch 26/50
+loss: 0.010
+>> Epoch 27/50
+loss: 0.010
+>> Epoch 28/50
+loss: 0.010
+>> Epoch 29/50
+loss: 0.010
+>> Epoch 30/50
+loss: 0.010
+>> Epoch 31/50
+loss: 0.010
+>> Epoch 32/50
+loss: 0.010
+>> Epoch 33/50
+loss: 0.010
+>> Epoch 34/50
+loss: 0.010
+>> Epoch 35/50
+loss: 0.010
+>> Epoch 36/50
+loss: 0.010
+>> Epoch 37/50
+loss: 0.010
+>> Epoch 38/50
+loss: 0.010
+>> Epoch 39/50
+loss: 0.010
+>> Epoch 40/50
+loss: 0.010
+>> Epoch 41/50
+loss: 0.010
+>> Epoch 42/50
+loss: 0.010
+>> Epoch 43/50
+loss: 0.010
+>> Epoch 44/50
+loss: 0.010
+>> Epoch 45/50
+loss: 0.010
+>> Epoch 46/50
+loss: 0.010
+>> Epoch 47/50
+loss: 0.010
+>> Epoch 48/50
+loss: 0.010
+>> Epoch 49/50
+loss: 0.010
+>> Epoch 50/50
+loss: 0.010
+siam_MobileNetV3_SOPClass_80_50_triplet_all_triplet_0.0001_512  saved.
+siam_emb_MobileNetV3_SOPClass_80_50_triplet_all_triplet_0.0001_512  saved.
+Finished. Total elapsed time (h:m:s): 3:45:54
+Currently using GPU: 0
+Creating dataset: SOPClass
+create labels..
+Creating model: mobilenet
+file name: siam_MobileNetV3_SOPClass_80_50_triplet_easy_triplet_0.0001_512
+>> Epoch 1/50
+loss: 0.016
+>> Epoch 2/50
+loss: 0.016
+>> Epoch 3/50
+loss: 0.015
+>> Epoch 4/50
+loss: 0.015
+>> Epoch 5/50
+loss: 0.015
+>> Epoch 6/50
+loss: 0.015
+>> Epoch 7/50
+loss: 0.015
+>> Epoch 8/50
+loss: 0.015
+>> Epoch 9/50
+loss: 0.015
+>> Epoch 10/50
+loss: 0.015
+>> Epoch 11/50
+loss: 0.015
+>> Epoch 12/50
+loss: 0.015
+>> Epoch 13/50
+loss: 0.015
+>> Epoch 14/50
+loss: 0.015
+>> Epoch 15/50
+loss: 0.015
+>> Epoch 16/50
+loss: 0.015
+>> Epoch 17/50
+loss: 0.015
+>> Epoch 18/50
+loss: 0.015
+>> Epoch 19/50
+loss: 0.015
+>> Epoch 20/50
+loss: 0.015
+>> Epoch 21/50
+loss: 0.015
+>> Epoch 22/50
+loss: 0.015
+>> Epoch 23/50
+loss: 0.015
+>> Epoch 24/50
+loss: 0.015
+>> Epoch 25/50
+loss: 0.015
+>> Epoch 26/50
+loss: 0.015
+>> Epoch 27/50
+loss: 0.015
+>> Epoch 28/50
+loss: 0.015
+>> Epoch 29/50
+loss: 0.015
+>> Epoch 30/50
+loss: 0.015
+>> Epoch 31/50
+loss: 0.015
+>> Epoch 32/50
+loss: 0.015
+>> Epoch 33/50
+loss: 0.015
+>> Epoch 34/50
+loss: 0.015
+>> Epoch 35/50
+loss: 0.015
+>> Epoch 36/50
+loss: 0.015
+>> Epoch 37/50
+loss: 0.015
+>> Epoch 38/50
+loss: 0.015
+>> Epoch 39/50
+loss: 0.015
+>> Epoch 40/50
+loss: 0.015
+>> Epoch 41/50
+loss: 0.015
+>> Epoch 42/50
+loss: 0.015
+>> Epoch 43/50
+loss: 0.015
+>> Epoch 44/50
+loss: 0.015
+>> Epoch 45/50
+loss: 0.015
+>> Epoch 46/50
+loss: 0.014
+>> Epoch 47/50
+loss: 0.014
+>> Epoch 48/50
+loss: 0.014
+>> Epoch 49/50
+loss: 0.014
+>> Epoch 50/50
+loss: 0.014
+siam_MobileNetV3_SOPClass_80_50_triplet_easy_triplet_0.0001_512  saved.
+siam_emb_MobileNetV3_SOPClass_80_50_triplet_easy_triplet_0.0001_512  saved.
+Finished. Total elapsed time (h:m:s): 3:45:34
+Currently using GPU: 0
+Creating dataset: SOPClass
+create labels..
+Creating model: mobilenet
+file name: siam_MobileNetV3_SOPClass_80_50_triplet_semi_triplet_0.0001_512
+>> Epoch 1/50
+loss: 0.005
+>> Epoch 2/50
+loss: 0.005
+>> Epoch 3/50
+loss: 0.004
+>> Epoch 4/50
+loss: 0.004
+>> Epoch 5/50
+loss: 0.004
+>> Epoch 6/50
+loss: 0.004
+>> Epoch 7/50
+loss: 0.004
+>> Epoch 8/50
+loss: 0.004
+>> Epoch 9/50
+loss: 0.004
+>> Epoch 10/50
+loss: 0.004
+>> Epoch 11/50
+loss: 0.004
+>> Epoch 12/50
+loss: 0.004
+>> Epoch 13/50
+loss: 0.004
+>> Epoch 14/50
+loss: 0.004
+>> Epoch 15/50
+loss: 0.004
+>> Epoch 16/50
+loss: 0.004
+>> Epoch 17/50
+loss: 0.004
+>> Epoch 18/50
+loss: 0.004
+>> Epoch 19/50
+loss: 0.004
+>> Epoch 20/50
+loss: 0.004
+>> Epoch 21/50
+loss: 0.004
+>> Epoch 22/50
+loss: 0.004
+>> Epoch 23/50
+loss: 0.003
+>> Epoch 24/50
+loss: 0.003
+>> Epoch 25/50
+loss: 0.003
+>> Epoch 26/50
+loss: 0.003
+>> Epoch 27/50
+loss: 0.003
+>> Epoch 28/50
+loss: 0.003
+>> Epoch 29/50
+loss: 0.003
+>> Epoch 30/50
+loss: 0.003
+>> Epoch 31/50
+loss: 0.003
+>> Epoch 32/50
+loss: 0.003
+>> Epoch 33/50
+loss: 0.003
+>> Epoch 34/50
+loss: 0.003
+>> Epoch 35/50
+loss: 0.003
+>> Epoch 36/50
+loss: 0.003
+>> Epoch 37/50
+loss: 0.003
+>> Epoch 38/50
+loss: 0.003
+>> Epoch 39/50
+loss: 0.003
+>> Epoch 40/50
+loss: 0.003
+>> Epoch 41/50
+loss: 0.003
+>> Epoch 42/50
+loss: 0.003
+>> Epoch 43/50
+loss: 0.003
+>> Epoch 44/50
+loss: 0.003
+>> Epoch 45/50
+loss: 0.003
+>> Epoch 46/50
+loss: 0.003
+>> Epoch 47/50
+loss: 0.003
+>> Epoch 48/50
+loss: 0.003
+>> Epoch 49/50
+loss: 0.003
+>> Epoch 50/50
+loss: 0.003
+siam_MobileNetV3_SOPClass_80_50_triplet_semi_triplet_0.0001_512  saved.
+siam_emb_MobileNetV3_SOPClass_80_50_triplet_semi_triplet_0.0001_512  saved.
+Finished. Total elapsed time (h:m:s): 3:46:08
+Currently using GPU: 0
+Creating dataset: SOPClass
+create labels..
+Creating model: mobilenet
+file name: siam_MobileNetV3_SOPClass_80_50_triplet_hard_triplet_0.0001_512
+>> Epoch 1/50
+loss: 0.016
+>> Epoch 2/50
+loss: 0.016
+>> Epoch 3/50
+loss: 0.015
+>> Epoch 4/50
+loss: 0.015
+>> Epoch 5/50
+loss: 0.015
+>> Epoch 6/50
+loss: 0.015
+>> Epoch 7/50
+loss: 0.015
+>> Epoch 8/50
+loss: 0.015
+>> Epoch 9/50
+loss: 0.015
+>> Epoch 10/50
+loss: 0.015
+>> Epoch 11/50
+loss: 0.015
+>> Epoch 12/50
+loss: 0.015
+>> Epoch 13/50
+loss: 0.015
+>> Epoch 14/50
+loss: 0.015
+>> Epoch 15/50
+loss: 0.015
+>> Epoch 16/50
+loss: 0.015
+>> Epoch 17/50
+loss: 0.015
+>> Epoch 18/50
+loss: 0.015
+>> Epoch 19/50
+loss: 0.015
+>> Epoch 20/50
+loss: 0.015
+>> Epoch 21/50
+loss: 0.015
+>> Epoch 22/50
+loss: 0.015
+>> Epoch 23/50
+loss: 0.015
+>> Epoch 24/50
+loss: 0.015
+>> Epoch 25/50
+loss: 0.015
+>> Epoch 26/50
+loss: 0.015
+>> Epoch 27/50
+loss: 0.015
+>> Epoch 28/50
+loss: 0.015
+>> Epoch 29/50
+loss: 0.015
+>> Epoch 30/50
+loss: 0.015
+>> Epoch 31/50
+loss: 0.015
+>> Epoch 32/50
+loss: 0.015
+>> Epoch 33/50
+loss: 0.015
+>> Epoch 34/50
+loss: 0.015
+>> Epoch 35/50
+loss: 0.015
+>> Epoch 36/50
+loss: 0.015
+>> Epoch 37/50
+loss: 0.015
+>> Epoch 38/50
+loss: 0.015
+>> Epoch 39/50
+loss: 0.015
+>> Epoch 40/50
+loss: 0.015
+>> Epoch 41/50
+loss: 0.015
+>> Epoch 42/50
+loss: 0.015
+>> Epoch 43/50
+loss: 0.015
+>> Epoch 44/50
+loss: 0.015
+>> Epoch 45/50
+loss: 0.015
+>> Epoch 46/50
+loss: 0.014
+>> Epoch 47/50
+loss: 0.014
+>> Epoch 48/50
+loss: 0.014
+>> Epoch 49/50
+loss: 0.014
+>> Epoch 50/50
+loss: 0.014
+siam_MobileNetV3_SOPClass_80_50_triplet_hard_triplet_0.0001_512  saved.
+siam_emb_MobileNetV3_SOPClass_80_50_triplet_hard_triplet_0.0001_512  saved.
+Finished. Total elapsed time (h:m:s): 3:46:00
